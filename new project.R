@@ -1,2 +1,1 @@
-("This file was created within RStudio")
-("And now it lives on GitHub")
+("This file is now pushed to github")
